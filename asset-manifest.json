@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/esptool-react/static/css/main.073c9b0a.css",
+    "main.js": "/esptool-react/static/js/main.9be02ff6.js",
+    "static/js/787.752c58a1.chunk.js": "/esptool-react/static/js/787.752c58a1.chunk.js",
+    "static/media/logo.svg": "/esptool-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/esptool-react/index.html",
+    "main.073c9b0a.css.map": "/esptool-react/static/css/main.073c9b0a.css.map",
+    "main.9be02ff6.js.map": "/esptool-react/static/js/main.9be02ff6.js.map",
+    "787.752c58a1.chunk.js.map": "/esptool-react/static/js/787.752c58a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9be02ff6.js"
+  ]
+}
